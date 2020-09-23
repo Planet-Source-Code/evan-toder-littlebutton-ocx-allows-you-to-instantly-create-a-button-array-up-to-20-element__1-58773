@@ -1,0 +1,18 @@
+VERSION 5.00
+Begin VB.PropertyPage PP1 
+   Caption         =   "PropertyPage1"
+   ClientHeight    =   2805
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   4965
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   2805
+   ScaleWidth      =   4965
+End
+Attribute VB_Name = "PP1"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+Option Explicit
+
